@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "postTitle": "How to become a successfull ux designer in 2023",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/396d/167b/8574b0b301c3409e7fd006878b9cd666?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YY5K5vPE-prGLqosyZXBYnDsRe-f94I0Al1DT2nZ68X0ybJ3V7AL3M-zcAtCGKkyW9NEJDejPZbtBmZKMZg6753-ByEivTXzCWooWcfIHtoMbKQOHwdlznsnyHspPOSmD-lPIb9-g2TA1E8OfMByr4YMi0iv8K~d0LRPHCqoweD1zD3AC~3IuDkS4Z5rNb4kFYggSha2i9CUej~Wj3u90WBz8DBNdcOmdq8UEXzEqcQCu94adN2XLHsv3OvVTa0tE44~utnubBYrKtYg3Im~V4W-35In9tBd2qjZ6EWoClztdm1bw6PphlL4zku4jIquMcJd8OW~D6v0twUmnDa0Ug__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Kleon Rany",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["design"],
+      "id": 1
+    },
+
+    {
+      "postTitle": "How to send useful cold emails in 2023?",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/fb59/a4a0/9b12420a1ee47237035cda5ffd816b31?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VgZvfeKHKX82xYXSh7A8dm1Lw6Ii5Y63609WvZhXuQEGnx~nhdcC0R1koqpBVg04LVM8qXX0zUqNqIhb5mQABsuueJabMnHqhv-13hdjZWPsI4LRpirM-FTP1rziPmCNH78FP05ymAUaYfeJloxC90AD45nolpI3ZVYzRzeulhXZPh1IwW63MtxmEfscVtwosHYmw6wsVMIWWCArOX6q94U8cbEd4zF1wmk2z6tSNvtcnfag4A9SN1FKm3W0io6sytkCpeZyJv4VermvG0tx2-jBnxYySqYIHpd0uaV~wy8RcRmSAVt32o6Edie~g65-BaLErGvPb~Ps-VdpprApyw__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["Business"],
+      "id": 2
+    },
+
+    {
+      "postTitle": "Dark mobile app design inspiration",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/c5b9/8c49/132bacd26c71e6069005d93936250450?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=F4uGD3sOiaHLkX378OUPD~tlVlRHF3hjPqpcXieJ8U~-vKULB7uoNBh6NQ8L8cE69BYKDW9zbxhx2jtIBzJ4xxt94GOcYkvLfVe0Bm3CHYpnenAie6cOFqHntttKHy5Lzms-p57u1AwvMT77xG7zuZbOxAT-nMiY9brNx1ENH9Ias2YPsSphleNMxdSfRcZhw7HMHoCg4eDAdrWZ9ObDJet4UjGnp4ieuu37TOVpiskHQLeMSRD8fF2EY61vhaVKj0dIpptoaCrWb5aXybCQcU-FMuO4CJpK6JFE1EjehrHenf0JUBrWKjHIC7OmYDZ1aCGn7CpTmJ4u~VIYtrDsCA__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+      "postCategory": ["design"],
+      "id": 3
+    },
+    {
+      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["lifestyle"],
+      "id": 4
+    },
+    {
+      "postTitle": "Twitter introduces a new $5,000-per-month API tier",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/fcd2/3c3b/b79f62e9fd7148b5511acd3f08a71324?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jiLc8E5OC-lZ1SiIFz~AebC9ZeBZYlMgfh8LjCbbn0QaFUnu0tEyFsH0JllGLbD0-nt8MrzvdjW1KmfNtCIMomDtq4IuVmKmhjYUM85e5A8b3ulBNq7HEgtq2renzsasoDH6P-0pvaOrOFVir04HQGqosYLkSSG23UN1p7FyY2elxrEUZnqerYkmyav8PwSmzhs9xk1DO-lfqK0RqOJ1E7LFDm8dSHRd~5kHUG-Ibr85LrfnwoQxW9GuFAg9WU1AxXpijjUbmvFwrygsgp7waIWBnJwXwyojqZ50N-TtIABysCOucWjiSHLIDvf-FRv4Sdi0SWTCVI9lAf6eDQTleA__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["tech"],
+      "id": 5
+    },
+    {
+      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["lifestyle"],
+      "id": 4
+    },
+    {
+      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["lifestyle"],
+      "id": 4
+    },
+    {
+      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["lifestyle"],
+      "id": 4
+    },
+    {
+      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
+      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
+      "date": "10/31/2027",
+      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
+      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "author": {
+        "name": "Clayborn McNeill",
+        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+      },
+      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
+
+      "postCategory": ["lifestyle"],
+      "id": 4
+    }
+  ]
+}
