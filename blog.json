@@ -1,141 +1,101 @@
 {
   "posts": [
     {
-      "postTitle": "How to become a successfull ux designer in 2023",
+      "postTitle": "The Art of Minimalist Design",
       "thumbnail": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?t=st=1712076292~exp=1712079892~hmac=318f0db76fca2ff581e7548d174ad26be6656ea3c3ae38024dba4d9b025bb66f&w=740",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "date": "02/12/2024",
+      "shortDescription": "Learn the principles of minimalist design and how to apply them effectively.",
+      "fullPost": "<p>Minimalist design is all about simplicity and functionality. By stripping away unnecessary elements and focusing on the essentials, minimalist designs can convey elegance and clarity. In this post, we'll explore the principles of minimalist design and provide tips on how to apply them effectively in your projects.</p>",
       "author": {
-        "name": "Kleon Rany",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+        "name": "Jane Doe",
+        "image": "https://robohash.org/janedoe.png?size=50x50&set=set1"
       },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
+      "comments": "Great insights into minimalist design!",
       "postCategory": ["design"],
       "id": 1
     },
-
     {
-      "postTitle": "How to send useful cold emails in 2023?",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/fb59/a4a0/9b12420a1ee47237035cda5ffd816b31?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VgZvfeKHKX82xYXSh7A8dm1Lw6Ii5Y63609WvZhXuQEGnx~nhdcC0R1koqpBVg04LVM8qXX0zUqNqIhb5mQABsuueJabMnHqhv-13hdjZWPsI4LRpirM-FTP1rziPmCNH78FP05ymAUaYfeJloxC90AD45nolpI3ZVYzRzeulhXZPh1IwW63MtxmEfscVtwosHYmw6wsVMIWWCArOX6q94U8cbEd4zF1wmk2z6tSNvtcnfag4A9SN1FKm3W0io6sytkCpeZyJv4VermvG0tx2-jBnxYySqYIHpd0uaV~wy8RcRmSAVt32o6Edie~g65-BaLErGvPb~Ps-VdpprApyw__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "postTitle": "Mastering Responsive Web Design",
+      "thumbnail": "https://img.freepik.com/free-vector/vector-banner-responsive-web-design_107791-8072.jpg?t=st=1712077246~exp=1712080846~hmac=928ab0470bc53830465116ab9e895e42a6303fef3cecee3af3cdd798ebfdf1c3&w=740",
+      "date": "05/22/2024",
+      "shortDescription": "Discover the key principles and techniques for creating responsive web designs.",
+      "fullPost": "<p>Responsive web design is essential in today's digital landscape, where users access websites on a variety of devices and screen sizes. In this post, we'll delve into the key principles and techniques for creating responsive web designs that adapt seamlessly to different devices and viewport sizes.</p>",
       "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+        "name": "John Smith",
+        "image": "https://robohash.org/johnsmith.png?size=50x50&set=set1"
       },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
-      "postCategory": ["Business"],
+      "comments": "Very informative! I learned a lot about responsive design.",
+      "postCategory": ["web design"],
       "id": 2
     },
-
     {
-      "postTitle": "Dark mobile app design inspiration",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/c5b9/8c49/132bacd26c71e6069005d93936250450?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=F4uGD3sOiaHLkX378OUPD~tlVlRHF3hjPqpcXieJ8U~-vKULB7uoNBh6NQ8L8cE69BYKDW9zbxhx2jtIBzJ4xxt94GOcYkvLfVe0Bm3CHYpnenAie6cOFqHntttKHy5Lzms-p57u1AwvMT77xG7zuZbOxAT-nMiY9brNx1ENH9Ias2YPsSphleNMxdSfRcZhw7HMHoCg4eDAdrWZ9ObDJet4UjGnp4ieuu37TOVpiskHQLeMSRD8fF2EY61vhaVKj0dIpptoaCrWb5aXybCQcU-FMuO4CJpK6JFE1EjehrHenf0JUBrWKjHIC7OmYDZ1aCGn7CpTmJ4u~VIYtrDsCA__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "postTitle": "The Power of Typography in Graphic Design",
+      "thumbnail": "https://img.freepik.com/free-vector/flat-world-graphics-day-illustration_23-2148880103.jpg?t=st=1712077288~exp=1712080888~hmac=46ef932adaa09ef8416e5c1802109b8fd2f9e470bef52538d3c6819be35b6f76&w=740",
+      "date": "08/17/2024",
+      "shortDescription": "Explore the role of typography in creating impactful graphic designs.",
+      "fullPost": "<p>Typography plays a crucial role in graphic design, influencing readability, aesthetics, and overall impact. In this post, we'll delve into the power of typography and how designers can leverage it to create visually stunning and effective graphic designs.</p>",
       "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+        "name": "Emily Johnson",
+        "image": "https://robohash.org/emilyjohnson.png?size=50x50&set=set1"
       },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-      "postCategory": ["design"],
+      "comments": "Typography is often overlooked, but it's so important in design!",
+      "postCategory": ["graphic design"],
       "id": 3
     },
     {
-      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "postTitle": "The Future of Augmented Reality",
+      "thumbnail": "https://img.freepik.com/free-vector/modern-artist-sculpt-3d-model-with-vr-simulation-glasses_1150-48144.jpg?t=st=1712077333~exp=1712080933~hmac=4cac9c0be97f6a97aefcbcc532820882b30e4acf0a0973a66e276df83ac48cc3&w=900",
+      "date": "10/03/2024",
+      "shortDescription": "Learn about the latest developments and future possibilities of augmented reality technology.",
+      "fullPost": "<p>Augmented reality (AR) has the potential to revolutionize various industries, from gaming and entertainment to healthcare and education. In this post, we'll explore the latest developments in AR technology and discuss its future possibilities and implications.</p>",
       "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+        "name": "Alex Brown",
+        "image": "https://robohash.org/alexbrown.png?size=50x50&set=set1"
       },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
-      "postCategory": ["lifestyle"],
+      "comments": "Exciting times ahead for AR technology!",
+      "postCategory": ["technology"],
       "id": 4
     },
     {
-      "postTitle": "Twitter introduces a new $5,000-per-month API tier",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/fcd2/3c3b/b79f62e9fd7148b5511acd3f08a71324?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jiLc8E5OC-lZ1SiIFz~AebC9ZeBZYlMgfh8LjCbbn0QaFUnu0tEyFsH0JllGLbD0-nt8MrzvdjW1KmfNtCIMomDtq4IuVmKmhjYUM85e5A8b3ulBNq7HEgtq2renzsasoDH6P-0pvaOrOFVir04HQGqosYLkSSG23UN1p7FyY2elxrEUZnqerYkmyav8PwSmzhs9xk1DO-lfqK0RqOJ1E7LFDm8dSHRd~5kHUG-Ibr85LrfnwoQxW9GuFAg9WU1AxXpijjUbmvFwrygsgp7waIWBnJwXwyojqZ50N-TtIABysCOucWjiSHLIDvf-FRv4Sdi0SWTCVI9lAf6eDQTleA__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
-
+      "postTitle": "The Impact of Color Psychology in Branding",
+      "thumbnail": "https://img.freepik.com/premium-vector/inspire-motivate-creative-inspirational-idea-light-bulb-watering-plant-as-symbol-creative-process-woman-brainstorming-vector-cartoon-flat-style-tiny-person-concept_176411-8493.jpg?w=740",
+      "date": "03/08/2024",
+      "shortDescription": "Discover how color psychology influences consumer perceptions and brand identity.",
+      "fullPost": "<p>Color plays a significant role in branding, influencing consumer perceptions, emotions, and behaviors. In this post, we'll explore the fascinating world of color psychology and its impact on brand identity and marketing strategies.</p>",
       "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+        "name": "Sarah Miller",
+        "image": "https://robohash.org/sarahmiller.png?size=50x50&set=set1"
       },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
-      "postCategory": ["tech"],
+      "comments": "I never realized how much color affects our perceptions! Great post.",
+      "postCategory": ["branding"],
       "id": 5
     },
     {
-      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "postTitle": "Exploring the World of User Interface Design",
+      "thumbnail": "https://img.freepik.com/free-vector/gradient-ui-ux-background-with-different-elements_23-2149061050.jpg?t=st=1712077402~exp=1712081002~hmac=32fd28757d119b20c2e4257aad819b7d63121a8b3715629e731fc3816936dcc3&w=740",
+      "date": "06/15/2024",
+      "shortDescription": "Delve into the principles and best practices of user interface design.",
+      "fullPost": "<p>User interface (UI) design is a critical component of creating engaging and intuitive digital experiences. In this post, we'll delve into the principles and best practices of UI design, exploring topics such as visual hierarchy, navigation patterns, and user interaction.</p>",
       "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+        "name": "Michael Wilson",
+        "image": "https://robohash.org/michaelwilson.png?size=50x50&set=set1"
       },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
-      "postCategory": ["lifestyle"],
-      "id": 4
+      "comments": "UI design can make or break a digital product. Thanks for the insights!",
+      "postCategory": ["UI/UX"],
+      "id": 6
     },
     {
-      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
+      "postTitle": "The Rise of Voice User Interfaces",
+      "thumbnail": "https://img.freepik.com/free-vector/gradient-colored-ui-ux-background_52683-70005.jpg?t=st=1712077424~exp=1712081024~hmac=9151af7b6b9ac14f5bfb97d5d559aa44c591448e69e5d0812db676024aadb89d&w=740",
+      "date": "09/30/2024",
+      "shortDescription": "Learn about the growing popularity and potential of voice user interface (VUI) technology.",
+      "fullPost": "<p>Voice user interface (VUI) technology is gaining traction across various devices and applications, from smart speakers and virtual assistants to automotive systems and healthcare solutions. In this post, we'll explore the rise of VUI technology and its potential to transform how we interact with digital devices and services.</p>",
       "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
+        "name": "David Thompson",
+        "image": "https://robohash.org/davidthompson.png?size=50x50&set=set1"
       },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
-      "postCategory": ["lifestyle"],
-      "id": 4
-    },
-    {
-      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
-      "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
-      },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
-      "postCategory": ["lifestyle"],
-      "id": 4
-    },
-    {
-      "postTitle": "Enjoy life as much as you can. Keep it simple. A short guide",
-      "thumbnail": "https://s3-alpha-sig.figma.com/img/2970/80d0/1e1ad0117a45876eb22645e74a60036c?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SMvKy7iqU7g765xNlKXRVRCwZUgYMlsgT7Z-VrADTk0SCHhfJhgzR0s9fN9WpNEP6MxXv3J4b7ikTpoxUOZtiUAs12Vduz-nLn-1xODapEtXhHtH~GAaIrOvC4tH75NfY5r1F9PrNUQYhG1ngbs1k5IoDGNH56ZoO~YinnBUHPexZawNyHRzbW0doasNoGGMWYOt1RygfXgYQtKvMWUNJSyn~FNuKEpDopsgIXEGGCxyDB-oZHyQF4KupwYpiXZMyq~e44-ZY45PBQmrfxGIdbGiN1yuLP2vhGq~zQVSTJbCtjXAD2gOOMTCpqCJL71Szld1XUQtxRzR6oSDZlEfVQ__",
-      "date": "10/31/2027",
-      "shortDescription": "UX influencers can be a great source of learning and inspiration. Following them is an excellent way to keep abreast of industry trends, hear different perspectives and insights.",
-      "fullPost": "Whilst Neumorphism may have had its moment in the spotlight, this UI design style is quickly becoming the go-to choice for those who are looking to revamp their website or start a new digital product, because it is very easy to implement. Take a look at Gumroad, Figma, or Code Academy, to make an idea.",
-      "author": {
-        "name": "Clayborn McNeill",
-        "image": "https://robohash.org/quidelenitisit.png?size=50x50&set=set1"
-      },
-      "comments": "The debt ceiling deal isn’t perfect but it’s the only one – and it must pass",
-
-      "postCategory": ["lifestyle"],
-      "id": 4
-    }
-  ]
-}
+      "comments": "Voice technology is the future! Can't wait to see what's next.",
+      "postCategory": ["technology"],
+      "id": 7
+    }]}
+     
