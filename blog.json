@@ -97,5 +97,202 @@
       "comments": "Voice technology is the future! Can't wait to see what's next.",
       "postCategory": ["technology"],
       "id": 7
-    }]}
-     
+    },
+    {
+      "postTitle": "Exploring Modern Architecture",
+      "thumbnail": "https://img.freepik.com/free-photo/crop-architect-opening-blueprint_23-2147710985.jpg?t=st=1712722932~exp=1712726532~hmac=b88799aee9022b28349e1b572af0e956911d7817f3e19658c0fd12c4bb309d9b&w=740",
+      "date": "06/15/2024",
+      "shortDescription": "Discover the key principles and techniques for understanding modern architecture.",
+      "fullPost": "<p>Modern architecture is a style that emerged in the early-20th century and became dominant after World War II. It is characterized by simplicity and a lack of ornament. In this post, we'll delve into the key principles and techniques for understanding modern architecture.</p>",
+      "author": {
+        "name": "Emily Johnson",
+        "image": "https://robohash.org/emilyjohnson.png?size=50x50&set=set1"
+      },
+      "comments": "Very informative! I learned a lot about modern architecture.",
+      "postCategory": ["architecture"],
+      "id": 8
+    },
+    {
+      "postTitle": "The Evolution of Architectural Styles",
+      "thumbnail": "https://img.freepik.com/premium-photo/sketch-blueprint-bright-interior-new-apartment-hand-drawn-illustration_739548-3591.jpg?w=740",
+      "date": "07/18/2024",
+      "shortDescription": "Trace the evolution of architectural styles from ancient times to the present day.",
+      "fullPost": "<p>Architectural styles have evolved significantly over the centuries, reflecting changes in technology, culture, and society. From the grandeur of ancient Greek temples to the sleek minimalism of modern skyscrapers, each architectural style has its unique characteristics and historical context. In this post, we'll trace the evolution of architectural styles from ancient times to the present day.</p>",
+      "author": {
+        "name": "Emily Johnson",
+        "image": "https://robohash.org/emilyjohnson.png?size=50x50&set=set1"
+      },
+      "comments": "Fascinating journey through the history of architecture!",
+      "postCategory": ["architecture"],
+      "id": 9
+    },
+    {
+      "postTitle": "Sustainable Architecture: Building for the Future",
+      "thumbnail": "https://img.freepik.com/free-vector/architecture-background-design_1168-72.jpg?t=st=1712723029~exp=1712726629~hmac=4a94651ffaccf7e6bcfb992a8557febcfbd544799e88164647203f62dace4091&w=740",
+      "date": "08/21/2024",
+      "shortDescription": "Learn about the importance of sustainable architecture in addressing environmental challenges.",
+      "fullPost": "<p>Sustainable architecture is an approach to design that seeks to minimize the negative environmental impact of buildings by enhancing efficiency and moderation in the use of materials, energy, and development space. In this post, we'll delve into the principles and practices of sustainable architecture, exploring how architects are innovating to address environmental challenges.</p>",
+      "author": {
+        "name": "Emily Johnson",
+        "image": "https://robohash.org/emilyjohnson.png?size=50x50&set=set1"
+      },
+      "comments": "Sustainable architecture is so important in today's world. Great read!",
+      "postCategory": ["architecture"],
+      "id": 10
+    },
+    {
+      "postTitle": "Influence of Culture on Architecture",
+      "thumbnail": "https://img.freepik.com/free-photo/financial-charts-with-pencil-table_1232-3120.jpg?t=st=1712723058~exp=1712726658~hmac=a80fc6a059916b20ee74775efb4a6c1d05fbafb76fb20e8bec17a4462806de32&w=740",
+      "date": "09/01/2024",
+      "shortDescription": "Explore how culture influences the architectural styles and practices.",
+      "fullPost": "<p>Culture plays a significant role in shaping architectural styles and practices. The traditions, beliefs, and values of a society are often reflected in the buildings and structures they create. In this post, we'll explore the influence of culture on architecture, examining examples from different regions and periods in history.</p>",
+      "author": {
+        "name": "Emily Johnson",
+        "image": "https://robohash.org/emilyjohnson.png?size=50x50&set=set1"
+      },
+      "comments": "It's fascinating how culture shapes architecture. Thanks for sharing!",
+      "postCategory": ["architecture"],
+      "id": 11
+    },
+    {
+      "postTitle": "Healthy Living: A Comprehensive Guide",
+      "thumbnail": "https://img.freepik.com/free-vector/healthy-lifestyle-diet-fitness-vector-sign-shape-heart-with-multiple-icons-depicting-various-sports-vegetables-cereals-seafood-meat-fruit-sleep-weight-beverages_1284-44073.jpg?t=st=1712723305~exp=1712726905~hmac=ee92907557dedc04dfe149e8642d4c865393e205095ed8ca1ce4a523cdf5ba59&w=740",
+      "date": "06/15/2024",
+      "shortDescription": "Discover the key principles and techniques for leading a healthy lifestyle.",
+      "fullPost": "<p>Leading a healthy lifestyle is about more than just eating right and exercising regularly. It's about making consistent choices that contribute to your overall well-being. In this post, we'll explore the principles of healthy living, from nutrition and physical activity to stress management and mental health.</p>",
+      "author": {
+        "name": "Jane Doe",
+        "image": "https://robohash.org/janedoe.png?size=50x50&set=set1"
+      },
+      "comments": "Great insights into healthy living!",
+      "postCategory": ["lifestyle"],
+      "id": 12
+    },
+    {
+      "postTitle": "Travel: Exploring the World on a Budget",
+      "thumbnail": "https://img.freepik.com/free-photo/profile-shot-energetic-dark-skinned-man-runs-highway-against-clear-sky-with-morning-light-wears-casual-comfortable-t-shirt-leggings-trainers-enjoys-spare-time-summer_273609-29398.jpg?t=st=1712723323~exp=1712726923~hmac=189dfbefdc346e28e4788b4395a2ce3c71a8859b534c83c10a8a484587063ff5&w=740",
+      "date": "06/20/2024",
+      "shortDescription": "Learn how to travel the world without breaking the bank.",
+      "fullPost": "<p>Traveling the world doesn't have to be expensive. With careful planning and smart choices, you can explore new places on a budget. In this post, we'll share tips and strategies for affordable travel, from finding cheap flights and accommodations to saving money on food and attractions.</p>",
+      "author": {
+        "name": "John Smith",
+        "image": "https://robohash.org/johnsmith.png?size=50x50&set=set1"
+      },
+      "comments": "Very informative! I learned a lot about budget travel.",
+      "postCategory": ["lifestyle"],
+      "id": 13
+    },
+    {
+      "postTitle": "Home Organization: Tips for a Tidy and Functional Space",
+      "thumbnail": "https://img.freepik.com/free-photo/stylish-fashion-blogger-relaxing-outdoor-working-laptop-sitting-bench-against-skyscraper_613910-4391.jpg?t=st=1712723353~exp=1712726953~hmac=95da9b0c7ed25de210a98933d992af4223fd0118f038169fec896181057ed849&w=740",
+      "date": "06/25/2024",
+      "shortDescription": "Discover effective strategies for organizing your home and creating a tidy, functional space.",
+      "fullPost": "<p>Keeping your home organized can make your space more enjoyable and reduce stress. From decluttering tips to storage solutions, in this post, we'll share strategies for maintaining a tidy and functional home.</p>",
+      "author": {
+        "name": "Emily Johnson",
+        "image": "https://robohash.org/emilyjohnson.png?size=50x50&set=set1"
+      },
+      "comments": "Great tips for home organization!",
+      "postCategory": ["lifestyle"],
+      "id": 14
+    },
+    {
+      "postTitle": "Personal Finance: Managing Your Money Effectively",
+      "thumbnail": "https://img.freepik.com/free-photo/full-shot-couple-reading-together_23-2148861206.jpg?t=st=1712723382~exp=1712726982~hmac=da170abcd09f7726485a083f08443a169dac000c299b0c5ebabc7cd7831df643&w=740",
+      "date": "06/30/2024",
+      "shortDescription": "Learn how to manage your money effectively and make informed financial decisions.",
+      "fullPost": "<p>Effective money management is crucial for financial stability and growth. In this post, we'll explore the basics of personal finance, from budgeting and saving to investing and debt management.</p>",
+      "author": {
+        "name": "Alex Brown",
+        "image": "https://robohash.org/alexbrown.png?size=50x50&set=set1"
+      },
+      "comments": "Very informative! I learned a lot about personal finance.",
+      "postCategory": ["lifestyle"],
+      "id": 14
+    },
+    {
+      "postTitle": "The Rise of Quantum Computing",
+      "thumbnail": "https://img.freepik.com/free-vector/gradient-quantum-illustration_23-2149247158.jpg?t=st=1712723623~exp=1712727223~hmac=3b0f04605e0dfd69eabd4e27513d9f3bfd3af1cbec3f62fb8272420c1e4a5f24&w=740",
+      "date": "07/01/2024",
+      "shortDescription": "Explore the fascinating world of quantum computing and its potential impact on technology.",
+      "fullPost": "<p>Quantum computing is a rapidly growing field at the intersection of physics and computer science. This technology leverages the principles of quantum mechanics to process information in ways that traditional computers cannot. In this post, we'll delve into the basics of quantum computing, its potential applications, and the challenges that lie ahead.</p>",
+      "author": {
+        "name": "John Doe",
+        "image": "https://robohash.org/johndoe.png?size=50x50&set=set1"
+      },
+      "comments": "Quantum computing is truly the future of technology!",
+      "postCategory": ["technology"],
+      "id": 15
+    },
+    {
+      "postTitle": "Understanding Artificial Intelligence",
+      "thumbnail": "https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150038910.jpg?t=st=1712738988~exp=1712742588~hmac=2d0c853ad2d9b0ae7b347657b23cc30c32cf031bbf37a969c796f84aaa219cd7&w=900",
+      "date": "08/15/2024",
+      "shortDescription": "Demystify the concept of artificial intelligence and learn about its various applications.",
+      "fullPost": "<p>Artificial Intelligence (AI) is a transformative technology that has potential implications across various sectors. From healthcare to transportation, AI is being used to enhance efficiencies and solve complex problems. In this post, we'll explore the concept of AI, its various applications, and the ethical considerations surrounding its use.</p>",
+      "author": {
+        "name": "Jane Doe",
+        "image": "https://robohash.org/janedoe.png?size=50x50&set=set1"
+      },
+      "comments": "This post really helped me understand AI better. Thanks!",
+      "postCategory": ["technology"],
+      "id": 16
+    },
+    {
+      "postTitle": "The Principles of Design",
+      "thumbnail": "https://img.freepik.com/free-vector/goals-habits-tracking-app_23-2148621898.jpg?t=st=1712739008~exp=1712742608~hmac=7d220893c00b7311c7a4627fbbad23d64fe50120959be6b0867ab91110f1c1da&w=740",
+      "date": "08/16/2024",
+      "shortDescription": "Explore the fundamental principles of design and how they contribute to creating visually appealing and effective designs.",
+      "fullPost": "<p>Design principles are the rules and guidelines that designers use to create attractive, engaging, and meaningful projects. By mastering the principles of design, you can create balanced, harmonious, and effective designs that communicate your intended message in the best way possible.</p>",
+      "author": {
+        "name": "Jane Doe",
+        "image": "https://robohash.org/janedoe.png?size=50x50&set=set1"
+      },
+      "comments": "Great post! I learned a lot about design principles.",
+      "postCategory": ["design"],
+      "id": 17
+    },
+    {
+      "postTitle": "The Impact of Color in Design",
+      "thumbnail": "https://img.freepik.com/premium-vector/flea-market-mobile-app-page-onboard-screen-template-characters-visiting-garage-sale-shopping-unique-antique-things-outdoor-retro-bazaar-sale-concept-cartoon-people-vector-illustration_87771-15448.jpg?w=740",
+      "date": "08/17/2024",
+      "shortDescription": "Discover the role of color in design and how it influences perceptions and emotions.",
+      "fullPost": "<p>Color is a powerful tool in design. It can evoke emotions, convey messages, and greatly influence the perception of a design. Understanding color theory and its psychological effects is crucial for creating effective designs.</p>",
+      "author": {
+        "name": "Jane Doe",
+        "image": "https://robohash.org/janedoe.png?size=50x50&set=set1"
+      },
+      "comments": "This post made me realize the importance of color in design.",
+      "postCategory": ["design"],
+      "id": 18
+    },
+    {
+      "postTitle": "The Role of Typography in Design",
+      "thumbnail": "https://img.freepik.com/free-vector/realistic-glassmorphism-mobile-app-template_23-2149443264.jpg?t=st=1712739057~exp=1712742657~hmac=f96faafae53bcc5692c5a783757e86a8ccb00bf4c17c32074d38e3cf05e5be74&w=740",
+      "date": "08/18/2024",
+      "shortDescription": "Learn about the importance of typography in design and how it can affect readability and user experience.",
+      "fullPost": "<p>Typography is an essential element of design. It not only communicates written content, but also plays a crucial role in the visual appeal of a design. Good typography enhances readability and user experience, while poor typography can make a design unappealing and difficult to read.</p>",
+      "author": {
+        "name": "Jane Doe",
+        "image": "https://robohash.org/janedoe.png?size=50x50&set=set1"
+      },
+      "comments": "I never knew typography was so important in design. Thanks for the info!",
+      "postCategory": ["design"],
+      "id": 19
+    },
+    {
+      "postTitle": "Understanding User Interface (UI) Design",
+      "thumbnail": "https://img.freepik.com/free-vector/gradient-ui-ux-landing-page-template_23-2149053803.jpg?t=st=1712739076~exp=1712742676~hmac=9fdca2d573e85fc2b978c49d0de801878845c7ecc09ec0bf48330df15feb719f&w=740",
+      "date": "08/19/2024",
+      "shortDescription": "Dive into the world of UI design and learn about its role in creating user-friendly digital interfaces.",
+      "fullPost": "<p>User Interface (UI) design is a crucial aspect of digital product design. It involves designing the visual elements of a digital interface, such as buttons, icons, and typography, with the goal of making the user's interaction as simple and efficient as possible.</p>",
+      "author": {
+        "name": "Jane Doe",
+        "image": "https://robohash.org/janedoe.png?size=50x50&set=set1"
+      },
+      "comments": "This post gave me a good understanding of UI design. Thanks!",
+      "postCategory": ["design"],
+      "id": 20
+    }
+  ]
+}
