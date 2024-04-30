@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "title": "Hi There!",
+      "description": "My name is Md Imran, I'm a front-end developer. I have developed many types of front-ends from  web applications to Ecommerce booking platforms. I'm passionate about cutting-edge, pixel-perfect, beautiful interfaces and intuitively implemented UX.",
+      "viewSite": null,
+      "github": null,
+      "npm": null,
+      "projectCategory": "",
+      "id": "1"
+    },
+    {
+      "title": "Internet Service Website",
+      "description": "This project is a showcase of an internet service providing website that was built using HTML, CSS, Bootstrap, and JavaScript. The website aims to provide information about internet services, packages, and offerings in a user-friendly and visually appealing manner.",
+      "projectCategory": "react website",
+      "viewSite": {
+        "title": "Visit Site",
+        "url": "https://vocal-bonbon-65209f.netlify.app/"
+      },
+      "github": null,
+      "npm": null,
+      "id": "2"
+    },
+    {
+      "title": "Travel Website",
+      "description": "This project is a showcase of a travel website built using React.js and Tailwind CSS, inspired by a design created in Figma. The website serves as a platform for users to explore various travel destinations, view accommodations, and plan their trips. By converting the Figma design into a functional React application, this project demonstrates proficiency in front-end development using modern web technologies.",
+      "projectCategory": "html template",
+      "viewSite": {
+        "title": "Visit Site",
+        "url": "https://poetic-bienenstitch-ae457e.netlify.app/"
+      },
+      "github": null,
+      "npm": null,
+      "id": "3"
+    },
+    {
+      "id": "a8d07494-5fbf-4520-8160-59c79fcbbb70",
+      "title": "gaming website",
+      "description": "this is a gaming website",
+      "projectCategory": "web design",
+      "viewSite": {
+        "title": "Visit Site",
+        "url": "#"
+      },
+      "github": "",
+      "npm": ""
+    },
+    {
+      "id": "1cabb5c7-8e5a-4175-9810-128861bec483",
+      "title": "clothing store",
+      "description": "this is clothing store",
+      "projectCategory": "web design",
+      "viewSite": {
+        "title": "Visit Site",
+        "url": "#"
+      },
+      "github": "#",
+      "npm": "#"
+    },
+    {
+      "id": "0c7c6ff4-29d8-46c9-8fae-a733e2fd2023",
+      "title": "clothing store new",
+      "description": "this is clothing store",
+      "projectCategory": "web design",
+      "viewSite": {
+        "title": "Visit Site",
+        "url": "#"
+      },
+      "github": "#",
+      "npm": "#"
+    }
+  ]
+}
