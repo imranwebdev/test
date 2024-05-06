@@ -33,41 +33,7 @@
       "npm": null,
       "id": "3"
     },
-    {
-      "id": "a8d07494-5fbf-4520-8160-59c79fcbbb70",
-      "title": "gaming website",
-      "description": "this is a gaming website",
-      "projectCategory": "web design",
-      "viewSite": {
-        "title": "Visit Site",
-        "url": "#"
-      },
-      "github": "",
-      "npm": ""
-    },
-    {
-      "id": "1cabb5c7-8e5a-4175-9810-128861bec483",
-      "title": "clothing store",
-      "description": "this is clothing store",
-      "projectCategory": "web design",
-      "viewSite": {
-        "title": "Visit Site",
-        "url": "#"
-      },
-      "github": "#",
-      "npm": "#"
-    },
-    {
-      "id": "0c7c6ff4-29d8-46c9-8fae-a733e2fd2023",
-      "title": "clothing store new",
-      "description": "this is clothing store",
-      "projectCategory": "web design",
-      "viewSite": {
-        "title": "Visit Site",
-        "url": "#"
-      },
-      "github": "#",
-      "npm": "#"
-    }
+
+
   ]
 }
