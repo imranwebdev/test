@@ -12,7 +12,7 @@
     {
       "title": "Internet Service Website",
       "description": "This project is a showcase of an internet service providing website that was built using HTML, CSS, Bootstrap, and JavaScript. The website aims to provide information about internet services, packages, and offerings in a user-friendly and visually appealing manner.",
-      "projectCategory": "react website",
+      "projectCategory": "html template",
       "viewSite": {
         "title": "Visit Site",
         "url": "https://vocal-bonbon-65209f.netlify.app/"
@@ -24,7 +24,7 @@
     {
       "title": "Travel Website",
       "description": "This project is a showcase of a travel website built using React.js and Tailwind CSS, inspired by a design created in Figma. The website serves as a platform for users to explore various travel destinations, view accommodations, and plan their trips. By converting the Figma design into a functional React application, this project demonstrates proficiency in front-end development using modern web technologies.",
-      "projectCategory": "html template",
+      "projectCategory": "react website",
       "viewSite": {
         "title": "Visit Site",
         "url": "https://poetic-bienenstitch-ae457e.netlify.app/"
